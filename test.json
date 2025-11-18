@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/alex0x3/XSS-test/refs/heads/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/alex0x3/XSS-test/refs/heads/main/test2.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/alex0x3/XSS-test/refs/heads/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/alex0x3/XSS-test/refs/heads/main/test2.yaml",
             "name": "Foo"
         }
     ]
