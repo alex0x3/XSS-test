@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: XSS attack
   description: |
-    XSS here
+    <script>alert(1)</script>
 paths:
   /accounts:
     get:
