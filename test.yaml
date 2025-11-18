@@ -8,7 +8,7 @@ info:
     </div>
     <i>test</i><img src=x onerror=alert(1)>
     <svg onload=prompt(1)>
-    <body onload="eval(atob(\'YWxlcnQoJ1N1Y2Nlc3NmdWwgWFNTJyk=\'))">
+    <body onload="eval(atob(\"YWxlcnQoJ1N1Y2Nlc3NmdWwgWFNTJyk=\"))">
     <div class="form-container">
         <form action="https://example.com/login" method="post" class="form-signin">
             <div class="form-group">
